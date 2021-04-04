@@ -1,0 +1,298 @@
+C:\Users\MrBoring\source\repos\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\MrBoring\source\repos\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\MrBoring\source\repos\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\MrBoring\source\repos\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\MrBoring\source\repos\DataBase\DataBase\obj\Debug\MainWindow.g.cs
+C:\Users\MrBoring\source\repos\DataBase\DataBase\obj\Debug\App.g.cs
+C:\Users\MrBoring\source\repos\DataBase\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+C:\Users\MrBoring\source\repos\DataBase\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+C:\Users\MrBoring\source\repos\DataBase\DataBase\obj\Debug\MainWindow.baml
+C:\Users\MrBoring\source\repos\DataBase\DataBase\obj\Debug\DataBase.g.resources
+C:\Users\MrBoring\source\repos\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\MrBoring\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\MrBoring\source\repos\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\MrBoring\source\repos\DataBase\DataBase\obj\Debug\DataBase.pdb
+D:\DataBase\DataBase\bin\Debug\DataBase.exe.config
+D:\DataBase\DataBase\bin\Debug\DataBase.exe
+D:\DataBase\DataBase\bin\Debug\DataBase.pdb
+D:\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+D:\DataBase\DataBase\obj\Debug\MainWindow.g.cs
+D:\DataBase\DataBase\obj\Debug\App.g.cs
+D:\DataBase\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+D:\DataBase\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+D:\DataBase\DataBase\obj\Debug\MainWindow.baml
+D:\DataBase\DataBase\obj\Debug\DataBase.g.resources
+D:\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+D:\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+D:\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\DataBase\DataBase\obj\Debug\DataBase.exe
+D:\DataBase\DataBase\obj\Debug\DataBase.pdb
+F:\DataBase\DataBase\bin\Debug\DataBase.exe.config
+F:\DataBase\DataBase\bin\Debug\DataBase.exe
+F:\DataBase\DataBase\bin\Debug\DataBase.pdb
+F:\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+F:\DataBase\DataBase\obj\Debug\MainWindow.g.cs
+F:\DataBase\DataBase\obj\Debug\App.g.cs
+F:\DataBase\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+F:\DataBase\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+F:\DataBase\DataBase\obj\Debug\MainWindow.baml
+F:\DataBase\DataBase\obj\Debug\DataBase.g.resources
+F:\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+F:\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+F:\DataBase\DataBase\obj\Debug\DataBase.exe
+F:\DataBase\DataBase\obj\Debug\DataBase.pdb
+F:\DataBase\DataBase\obj\Debug\UserAdd.g.cs
+F:\DataBase\DataBase\obj\Debug\UserAdd.baml
+C:\Users\MrBoring\Desktop\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\MrBoring\Desktop\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\MrBoring\Desktop\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\MrBoring\Desktop\DataBase\DataBase\bin\Debug\EntityFramework.dll
+C:\Users\MrBoring\Desktop\DataBase\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MrBoring\Desktop\DataBase\DataBase\bin\Debug\EntityFramework.xml
+C:\Users\MrBoring\Desktop\DataBase\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\MainWindow.g.cs
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\UserAdd.g.cs
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\App.g.cs
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\DataBase_Content.g.cs
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\MainWindow.baml
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\UserAdd.baml
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\DataBase.g.resources
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\user452\Desktop\DataBase1\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\user452\Desktop\DataBase1\DataBase\bin\Debug\DataBase.exe
+C:\Users\user452\Desktop\DataBase1\DataBase\bin\Debug\DataBase.pdb
+C:\Users\user452\Desktop\DataBase1\DataBase\bin\Debug\EntityFramework.dll
+C:\Users\user452\Desktop\DataBase1\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user452\Desktop\DataBase1\DataBase\bin\Debug\EntityFramework.xml
+C:\Users\user452\Desktop\DataBase1\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\MainWindow.g.cs
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\UserAdd.g.cs
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\App.g.cs
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\DataBase_Content.g.cs
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\MainWindow.baml
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\UserAdd.baml
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\DataBase.g.resources
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\DataBase.exe
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\DataBase.pdb
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\UserRefactor.g.cs
+C:\Users\user452\Desktop\DataBase1\DataBase\obj\Debug\UserRefactor.baml
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\UserRefactor.g.cs
+C:\Users\MrBoring\Desktop\DataBase\DataBase\obj\Debug\UserRefactor.baml
+F:\CustomersDataBase\DataBase\bin\Debug\DataBase.exe.config
+F:\CustomersDataBase\DataBase\bin\Debug\DataBase.exe
+F:\CustomersDataBase\DataBase\bin\Debug\DataBase.pdb
+F:\CustomersDataBase\DataBase\bin\Debug\EntityFramework.dll
+F:\CustomersDataBase\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+F:\CustomersDataBase\DataBase\bin\Debug\EntityFramework.xml
+F:\CustomersDataBase\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+F:\CustomersDataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+F:\CustomersDataBase\DataBase\obj\Debug\MainWindow.g.cs
+F:\CustomersDataBase\DataBase\obj\Debug\UserAdd.g.cs
+F:\CustomersDataBase\DataBase\obj\Debug\UserRefactor.g.cs
+F:\CustomersDataBase\DataBase\obj\Debug\App.g.cs
+F:\CustomersDataBase\DataBase\obj\Debug\DataBase_Content.g.cs
+F:\CustomersDataBase\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+F:\CustomersDataBase\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+F:\CustomersDataBase\DataBase\obj\Debug\MainWindow.baml
+F:\CustomersDataBase\DataBase\obj\Debug\UserAdd.baml
+F:\CustomersDataBase\DataBase\obj\Debug\UserRefactor.baml
+F:\CustomersDataBase\DataBase\obj\Debug\DataBase.g.resources
+F:\CustomersDataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+F:\CustomersDataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+F:\CustomersDataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+F:\CustomersDataBase\DataBase\obj\Debug\DataBase.exe
+F:\CustomersDataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\bin\Debug\EntityFramework.dll
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\bin\Debug\EntityFramework.xml
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\MainWindow.g.cs
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\UserAdd.g.cs
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\UserRefactor.g.cs
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\App.g.cs
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\DataBase_Content.g.cs
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\MainWindow.baml
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\UserAdd.baml
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\UserRefactor.baml
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\DataBase.g.resources
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\user452\Desktop\CustomersDataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\MainWindow.g.cs
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\UserAdd.g.cs
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\UserRefactor.g.cs
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\App.g.cs
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_Content.g.cs
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.exe
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.pdb
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.exe
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.pdb
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.dll
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.xml
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\MainWindow.baml
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\UserAdd.baml
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\UserRefactor.baml
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.g.resources
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\MrBoring\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+F:\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.exe.config
+F:\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.exe
+F:\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.pdb
+F:\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.dll
+F:\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+F:\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.xml
+F:\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\MainWindow.g.cs
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\UserAdd.g.cs
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\UserRefactor.g.cs
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\App.g.cs
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_Content.g.cs
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\MainWindow.baml
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\UserAdd.baml
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\UserRefactor.baml
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.g.resources
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.exe
+F:\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.pdb
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.exe
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.pdb
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.dll
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.xml
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\MainWindow.g.cs
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\UserAdd.g.cs
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\UserRefactor.g.cs
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\App.g.cs
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_Content.g.cs
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\MainWindow.baml
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\UserAdd.baml
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\UserRefactor.baml
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.g.resources
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.exe
+C:\Users\user452\Desktop\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.pdb
+F:\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.exe.config
+F:\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.exe
+F:\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.pdb
+F:\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.dll
+F:\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+F:\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.xml
+F:\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\MainWindow.g.cs
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\UserAdd.g.cs
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\UserRefactor.g.cs
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\App.g.cs
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_Content.g.cs
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\MainWindow.baml
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\UserAdd.baml
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\UserRefactor.baml
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.g.resources
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.exe
+F:\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.pdb
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.exe
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.pdb
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.dll
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.xml
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\MainWindow.g.cs
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\UserAdd.g.cs
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\UserRefactor.g.cs
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\App.g.cs
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_Content.g.cs
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\MainWindow.baml
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\UserAdd.baml
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\UserRefactor.baml
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.g.resources
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.exe
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.pdb
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.ResolveComReference.cache
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\MrBoring\Desktop\база 09.02\CustomersDataBase 05.02\DataBase\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+F:\база 11.02\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.exe.config
+F:\база 11.02\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.exe
+F:\база 11.02\CustomersDataBase 05.02\DataBase\bin\Debug\DataBase.pdb
+F:\база 11.02\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.dll
+F:\база 11.02\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+F:\база 11.02\CustomersDataBase 05.02\DataBase\bin\Debug\Microsoft.WindowsAPICodePack.dll
+F:\база 11.02\CustomersDataBase 05.02\DataBase\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\база 11.02\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.xml
+F:\база 11.02\CustomersDataBase 05.02\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+F:\база 11.02\CustomersDataBase 05.02\DataBase\bin\Debug\Microsoft.WindowsAPICodePack.xml
+F:\база 11.02\CustomersDataBase 05.02\DataBase\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.ResolveComReference.cache
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\MainWindow.g.cs
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\UserAdd.g.cs
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\UserRefactor.g.cs
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\App.g.cs
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_Content.g.cs
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_MarkupCompile.cache
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase_MarkupCompile.lref
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\MainWindow.baml
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\UserAdd.baml
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\UserRefactor.baml
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.g.resources
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.exe
+F:\база 11.02\CustomersDataBase 05.02\DataBase\obj\Debug\DataBase.pdb

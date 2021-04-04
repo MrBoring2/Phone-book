@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище DataModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Spravochnik">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FamilyName" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Otchestvo" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Telephone" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Photo" Type="image" />
+    <Property Name="Category" Type="nchar" MaxLength="30" />
+  </EntityType>
+  <EntityContainer Name="Хранилище DataModelContainer">
+    <EntitySet Name="Spravochnik" EntityType="Self.Spravochnik" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
